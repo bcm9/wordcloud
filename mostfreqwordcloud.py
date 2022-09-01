@@ -10,6 +10,7 @@ Created on Sun May 10 13:58:13 2020
 @author: bcm9
 """
 # import packages
+# pip install wordcloud
 import os
 from collections import Counter 
 import readDocx
