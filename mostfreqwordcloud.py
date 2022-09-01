@@ -40,11 +40,11 @@ def mostfrequentwordcloud(folder,docfilename,n):
     
     # word cloud function
     def plot_wordcloud(wordcloud):
-        # Set figure size
+        # set figure size
         plt.figure(figsize=(40, 30))
-        # Display image
+        # display image
         plt.imshow(wordcloud) 
-        # No axis details
+        # remove axis
         plt.axis("off");
         
     # generate word cloud
