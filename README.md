@@ -1,5 +1,5 @@
 # wordcloud
-Python function to create word cloud from .docx
+Python function to create word cloud image from .docx text
 
 Returns n most frequent words in a word document and plots word cloud
 
