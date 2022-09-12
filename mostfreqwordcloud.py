@@ -1,9 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Returns n most frequent words in a word document and plots word cloud
+mostfrequentwordcloud(folder,docfilename,n)
+Plots word cloud and returns n most frequent words in a word document
 
+folder = string folder of document
+docfilename = string filename of document
 n = n most frequent words in docfilename in folder
+most_freq = n most frequent words
 
 Created on Sun May 10 13:58:13 2020
 
